@@ -1,0 +1,14 @@
+{
+  "sqltools.connections": [
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "database-1.cfcu6eiwe2xm.ap-southeast-2.rds.amazonaws.com",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "Aurora-Postgres-Dev",
+      "database": "postgres",
+      "username": "postgres"
+    }
+  ]
+}
